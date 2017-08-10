@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ch_0">Здесь будет вступление</string>
+    <string name="ch_1">Здесь будет текст всей книги разбитый по главам</string>
+</resources>
