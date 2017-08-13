@@ -24,37 +24,42 @@
                 android:fontFamily="serif"
                 android:gravity="start"
                 android:padding="15dp"
-                android:text="@string/ch_1"
+                android:text="@string/ch_0"
                 android:textSize="18sp"/>
 
             <Button
                 android:id="@+id/way_button_1"
-                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                style="@style/Widget.AppCompat.Button.Colored"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="5dp"
+                android:layout_marginBottom="7dp"
                 android:layout_marginEnd="15dp"
                 android:layout_marginStart="15dp"
                 android:fontFamily="sans-serif-light"
-                android:minHeight="55dp"
-                android:textColor="@color/colorPrimary"
-                android:text="Button"
+                android:minHeight="60dp"
+                android:text="Идти направо, прямо, а потом повернуть сразу за третьим спуском"
                 android:textAllCaps="false"
+                android:textColor="@color/white"
                 android:textSize="18sp"/>
 
             <Button
                 android:id="@+id/way_button_2"
-                style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                style="@style/Widget.AppCompat.Button.Colored"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="5dp"
+                android:layout_marginBottom="7dp"
                 android:layout_marginEnd="15dp"
                 android:layout_marginStart="15dp"
-                android:text="Button"/>
+                android:fontFamily="sans-serif-light"
+                android:minHeight="60dp"
+                android:text="Идти направо"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="18sp"/>
 
             <Space
                 android:layout_width="match_parent"
-                android:layout_height="10dp" />
+                android:layout_height="8dp" />
 
         </LinearLayout>
 
