@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimary">#1a95b7</color>
+    <color name="colorPrimaryDark">#12657c</color>
     <color name="colorAccent">#1cc489</color>
 
     // Базовые цвета
@@ -26,5 +26,5 @@
     <color name="violet">#a95eff</color>
     <color name="pink">#ff5efa</color>
 
-    <color name="turquoise">#55e4bb</color>
+    <color name="turquoise">#1cc489</color>
 </resources>
