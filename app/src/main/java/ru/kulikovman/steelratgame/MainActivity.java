@@ -16,7 +16,15 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        // Получаем SharedPreferences
+        mSharedPref = getPreferences(Context.MODE_PRIVATE);
 
+        // Востанавливаем значение текущей главы
+        mChapterNumber = mSharedPref.getInt(getString(R.string.chapter_number), 0);
+        Log.d("myLog", "Восстановили текущую главу: " + mChapterNumber);
+
+        // Запускаем игровой процесс
+        startGame();
     }
 
     @Override
@@ -34,5 +42,13 @@ public class MainActivity extends AppCompatActivity {
         editor.apply();
 
         Log.d("myLog", "Сохранили текущую главу: " + mChapterNumber);
+    }
+
+    private void startGame() {
+        switch (mChapterNumber) {
+            case 0:
+
+                break;
+        }
     }
 }
