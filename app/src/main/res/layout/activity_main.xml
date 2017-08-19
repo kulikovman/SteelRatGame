@@ -24,7 +24,7 @@
                 android:fontFamily="serif"
                 android:gravity="start"
                 android:padding="15dp"
-                android:text="@string/ch_88"
+                android:text="@string/ch_199"
                 android:textSize="18sp"/>
 
             <Button
