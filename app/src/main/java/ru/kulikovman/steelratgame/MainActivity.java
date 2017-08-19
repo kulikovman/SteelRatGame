@@ -79,16 +79,26 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void addButton(String textButton, final int nextChapter) {
+        // Создаем кнопку - используем специальный макет и указываем родительский элемент без привязки
         Button button = (Button) getLayoutInflater().inflate(R.layout.my_button, mButtonContainer, false);
         button.setText(textButton);
+
+        // Добавляем кнопку в LinearLayout контейнер
         mButtonContainer.addView(button);
         Log.d("myLog", "Создали кнопку" + textButton);
 
+        // Назначаем слушатель
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                // Устанавливаем и сохраняем следующую главу
                 mChapterNumber = nextChapter;
                 saveChapter();
+
+                // Удаляем текущую кнопку
+                // TODO: 20.08.2017 Добавить код удаления текущей кнопки
+
+                // Перезапускаем метод игры
                 startGame();
             }
         });
