@@ -24,36 +24,26 @@
                 android:fontFamily="serif"
                 android:gravity="start"
                 android:padding="15dp"
-                android:text="@string/ch_199"
+                android:text="@string/ch_1"
                 android:textSize="18sp"/>
 
-            <Button
-                android:id="@+id/way_button_1"
-                style="@style/MyButton"
+            <LinearLayout
+                android:id="@+id/button_container"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Первый вариант"/>
+                android:orientation="vertical">
 
-            <Button
-                android:id="@+id/way_button_2"
-                style="@style/MyButton"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="Второй"/>
+                <Button
+                    android:id="@+id/way_button_1"
+                    style="@style/MyButton"
+                    android:text="Первый вариант"/>
 
-            <Button
-                android:id="@+id/way_button_3"
-                style="@style/MyButton"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="Насыпали серной кислоты в традиционный узел деления плотности"/>
+                <Button
+                    android:id="@+id/way_button_2"
+                    style="@style/MyButton"
+                    android:text="Второй"/>
 
-            <Button
-                android:id="@+id/way_button_4"
-                style="@style/MyButton"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="Идти направо, через лес жуткого воя вурдалаков"/>
+            </LinearLayout>
 
             <Space
                 android:layout_width="match_parent"
