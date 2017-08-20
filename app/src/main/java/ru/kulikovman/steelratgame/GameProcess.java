@@ -98,8 +98,8 @@ public class GameProcess extends AppCompatActivity {
                 // Устанавливаем следующую главу
                 mChapterNumber = nextChapter;
 
-                // Удаляем текущую кнопку
-                // TODO: 20.08.2017 Добавить код удаления текущей кнопки
+                // Удаляем все кнопки из контейнера
+                mButtonContainer.removeAllViews();
 
                 // Перезапускаем метод игры
                 startGame();
