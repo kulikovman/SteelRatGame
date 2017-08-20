@@ -2,4 +2,7 @@
     <string name="app_name">Стань стальной крысой!</string>
     <string name="game_process_activity">Приключения</string>
 
+    <string name="start_game">Начать игру</string>
+    <string name="continue_game">Продолжить игру</string>
+
 </resources>

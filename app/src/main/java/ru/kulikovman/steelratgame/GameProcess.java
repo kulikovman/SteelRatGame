@@ -23,7 +23,7 @@ public class GameProcess extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_game_process);
 
-        // Инициализируем наши вью элементы
+        // Инициализируем необходимые вью элементы
         mButtonContainer = (LinearLayout) findViewById(R.id.button_container);
         mChapterText = (TextView) findViewById(R.id.chapter_text);
 
@@ -36,6 +36,8 @@ public class GameProcess extends AppCompatActivity {
 
         // Запускаем игровой процесс
         startGame();
+
+        Log.d("myLog", "Запущен игровой активити");
     }
 
     @Override
