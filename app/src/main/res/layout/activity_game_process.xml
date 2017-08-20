@@ -32,17 +32,6 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
-
-                <Button
-                    android:id="@+id/way_button_1"
-                    style="@style/MyButton"
-                    android:text="Первый вариант"/>
-
-                <Button
-                    android:id="@+id/way_button_2"
-                    style="@style/MyButton"
-                    android:text="Второй"/>
-
             </LinearLayout>
 
             <Space
@@ -50,7 +39,5 @@
                 android:layout_height="8dp"/>
 
         </LinearLayout>
-
     </ScrollView>
-
 </LinearLayout>
