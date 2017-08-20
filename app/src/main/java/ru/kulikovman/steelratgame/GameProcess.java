@@ -780,627 +780,704 @@ public class GameProcess extends AppCompatActivity {
                 break;
             case 155:
                 mChapterText.setText(R.string.ch_155);
-                addButton(getString(R.string.way_155), 555);
+                addButton(getString(R.string.way_155_113), 113);
                 break;
             case 156:
                 mChapterText.setText(R.string.ch_156);
-                addButton(getString(R.string.way_156), 555);
+                addButton(getString(R.string.way_156_21), 21);
+                addButton(getString(R.string.way_156_59), 59);
+                addButton(getString(R.string.way_156_149), 149);
+                addButton(getString(R.string.way_156_159), 159);
+                addButton(getString(R.string.way_156_330), 330);
                 break;
             case 157:
                 mChapterText.setText(R.string.ch_157);
-                addButton(getString(R.string.way_157), 555);
+                addButton(getString(R.string.way_157_69), 69);
+                addButton(getString(R.string.way_157_275), 275);
                 break;
             case 158:
                 mChapterText.setText(R.string.ch_158);
-                addButton(getString(R.string.way_158), 555);
+                addButton(getString(R.string.way_158_299), 299);
                 break;
             case 159:
                 mChapterText.setText(R.string.ch_159);
-                addButton(getString(R.string.way_159), 555);
+                addButton(getString(R.string.way_159_80), 80);
                 break;
             case 160:
                 mChapterText.setText(R.string.ch_160);
-                addButton(getString(R.string.way_160), 555);
+                addButton(getString(R.string.way_160_72), 72);
                 break;
             case 161:
                 mChapterText.setText(R.string.ch_161);
-                addButton(getString(R.string.way_161), 555);
+                addButton(getString(R.string.way_161_328), 328);
                 break;
-            case 162:
+            /*case 162:
                 mChapterText.setText(R.string.ch_162);
                 addButton(getString(R.string.way_162), 555);
-                break;
+                break;*/
             case 163:
                 mChapterText.setText(R.string.ch_163);
-                addButton(getString(R.string.way_163), 555);
+                addButton(getString(R.string.way_163_5), 5);
+                addButton(getString(R.string.way_163_342), 342);
                 break;
             case 164:
                 mChapterText.setText(R.string.ch_164);
-                addButton(getString(R.string.way_164), 555);
+                addButton(getString(R.string.way_164_329), 329);
                 break;
             case 165:
                 mChapterText.setText(R.string.ch_165);
-                addButton(getString(R.string.way_165), 555);
+                addButton(getString(R.string.way_165_308), 308);
+                addButton(getString(R.string.way_165_325), 325);
                 break;
             case 166:
                 mChapterText.setText(R.string.ch_166);
-                addButton(getString(R.string.way_166), 555);
+                addButton(getString(R.string.way_166_133), 133);
+                addButton(getString(R.string.way_166_343), 343);
                 break;
             case 167:
                 mChapterText.setText(R.string.ch_167);
-                addButton(getString(R.string.way_167), 555);
+                addButton(getString(R.string.way_167_53), 53);
+                addButton(getString(R.string.way_167_92), 92);
                 break;
             case 168:
                 mChapterText.setText(R.string.ch_168);
-                addButton(getString(R.string.way_168), 555);
+                addButton(getString(R.string.way_168_323), 323);
                 break;
             case 169:
                 mChapterText.setText(R.string.ch_169);
-                addButton(getString(R.string.way_169), 555);
+                addButton(getString(R.string.way_169_38), 38);
                 break;
             case 170:
                 mChapterText.setText(R.string.ch_170);
-                addButton(getString(R.string.way_170), 555);
+                addButton(getString(R.string.way_170_214), 214);
                 break;
             case 171:
                 mChapterText.setText(R.string.ch_171);
-                addButton(getString(R.string.way_171), 555);
+                addButton(getString(R.string.way_171_213), 213);
                 break;
-            case 172:
+            /*case 172:
                 mChapterText.setText(R.string.ch_172);
                 addButton(getString(R.string.way_172), 555);
-                break;
+                break;*/
             case 173:
                 mChapterText.setText(R.string.ch_173);
-                addButton(getString(R.string.way_173), 555);
+                addButton(getString(R.string.way_173_144), 144);
                 break;
             case 174:
                 mChapterText.setText(R.string.ch_174);
-                addButton(getString(R.string.way_174), 555);
+                addButton(getString(R.string.way_174_20), 20);
+                addButton(getString(R.string.way_174_101), 101);
                 break;
             case 175:
                 mChapterText.setText(R.string.ch_175);
-                addButton(getString(R.string.way_175), 555);
+                addButton(getString(R.string.way_175_29), 29);
                 break;
             case 176:
                 mChapterText.setText(R.string.ch_176);
-                addButton(getString(R.string.way_176), 555);
+                addButton(getString(R.string.way_176_190), 190);
                 break;
             case 177:
                 mChapterText.setText(R.string.ch_177);
-                addButton(getString(R.string.way_177), 555);
+                addButton(getString(R.string.way_177_171), 171);
                 break;
             case 178:
                 mChapterText.setText(R.string.ch_178);
-                addButton(getString(R.string.way_178), 555);
+                addButton(getString(R.string.way_178_205), 205);
                 break;
             case 179:
                 mChapterText.setText(R.string.ch_179);
-                addButton(getString(R.string.way_179), 555);
+                addButton(getString(R.string.way_179_156), 156);
                 break;
             case 180:
                 mChapterText.setText(R.string.ch_180);
-                addButton(getString(R.string.way_180), 555);
+                addButton(getString(R.string.way_180_46), 46);
+                addButton(getString(R.string.way_180_339), 339);
                 break;
             case 181:
                 mChapterText.setText(R.string.ch_181);
-                addButton(getString(R.string.way_181), 555);
+                addButton(getString(R.string.way_181_122_1), 122);
+                addButton(getString(R.string.way_181_122_2), 122);
                 break;
             case 182:
                 mChapterText.setText(R.string.ch_182);
-                addButton(getString(R.string.way_182), 555);
+                addButton(getString(R.string.way_182_194), 194);
                 break;
             case 183:
                 mChapterText.setText(R.string.ch_183);
-                addButton(getString(R.string.way_183), 555);
+                addButton(getString(R.string.way_183_112), 112);
                 break;
             case 184:
                 mChapterText.setText(R.string.ch_184);
-                addButton(getString(R.string.way_184), 555);
+                addButton(getString(R.string.way_184_5), 5);
+                addButton(getString(R.string.way_184_342), 342);
                 break;
             case 185:
                 mChapterText.setText(R.string.ch_185);
-                addButton(getString(R.string.way_185), 555);
+                addButton(getString(R.string.way_185_328), 328);
                 break;
             case 186:
                 mChapterText.setText(R.string.ch_186);
-                addButton(getString(R.string.way_186), 555);
+                addButton(getString(R.string.way_186_12), 12);
+                addButton(getString(R.string.way_186_33), 33);
                 break;
             case 187:
                 mChapterText.setText(R.string.ch_187);
-                addButton(getString(R.string.way_187), 555);
+                addButton(getString(R.string.way_187_104), 104);
                 break;
             case 188:
                 mChapterText.setText(R.string.ch_188);
-                addButton(getString(R.string.way_188), 555);
+                addButton(getString(R.string.way_188_150), 150);
+                addButton(getString(R.string.way_188_267), 267);
                 break;
             case 189:
                 mChapterText.setText(R.string.ch_189);
-                addButton(getString(R.string.way_189), 555);
+                addButton(getString(R.string.way_189_65), 65);
+                addButton(getString(R.string.way_189_94), 94);
                 break;
             case 190:
                 mChapterText.setText(R.string.ch_190);
-                addButton(getString(R.string.way_190), 555);
+                addButton(getString(R.string.way_190_182), 182);
+                addButton(getString(R.string.way_190_194), 194);
                 break;
             case 191:
                 mChapterText.setText(R.string.ch_191);
-                addButton(getString(R.string.way_191), 555);
+                addButton(getString(R.string.way_191_98), 98);
                 break;
             case 192:
                 mChapterText.setText(R.string.ch_192);
-                addButton(getString(R.string.way_192), 555);
+                addButton(getString(R.string.way_192_225), 225);
                 break;
             case 193:
                 mChapterText.setText(R.string.ch_193);
-                addButton(getString(R.string.way_193), 555);
+                addButton(getString(R.string.way_193_86), 86);
+                addButton(getString(R.string.way_193_175), 175);
                 break;
             case 194:
                 mChapterText.setText(R.string.ch_194);
-                addButton(getString(R.string.way_194), 555);
+                addButton(getString(R.string.way_194_334), 334);
                 break;
-            case 195:
+            /*case 195:
                 mChapterText.setText(R.string.ch_195);
                 addButton(getString(R.string.way_195), 555);
-                break;
+                break;*/
             case 196:
                 mChapterText.setText(R.string.ch_196);
-                addButton(getString(R.string.way_196), 555);
+                addButton(getString(R.string.way_196_153), 153);
                 break;
             case 197:
                 mChapterText.setText(R.string.ch_197);
-                addButton(getString(R.string.way_197), 555);
+                addButton(getString(R.string.way_197_242), 242);
                 break;
             case 198:
                 mChapterText.setText(R.string.ch_198);
-                addButton(getString(R.string.way_198), 555);
+                addButton(getString(R.string.way_198_28), 28);
+                addButton(getString(R.string.way_198_196), 196);
                 break;
             case 199:
                 mChapterText.setText(R.string.ch_199);
-                addButton(getString(R.string.way_199), 555);
+                addButton(getString(R.string.way_199_117), 117);
+                addButton(getString(R.string.way_199_327), 327);
                 break;
             case 200:
                 mChapterText.setText(R.string.ch_200);
-                addButton(getString(R.string.way_200), 555);
+                addButton(getString(R.string.way_200_53), 53);
                 break;
             case 201:
                 mChapterText.setText(R.string.ch_201);
-                addButton(getString(R.string.way_201), 555);
+                addButton(getString(R.string.way_201_85), 85);
                 break;
             case 202:
                 mChapterText.setText(R.string.ch_202);
-                addButton(getString(R.string.way_202), 555);
+                addButton(getString(R.string.way_202_210), 210);
+                addButton(getString(R.string.way_202_226), 226);
                 break;
             case 203:
                 mChapterText.setText(R.string.ch_203);
-                addButton(getString(R.string.way_203), 555);
+                addButton(getString(R.string.way_203_208), 208);
+                addButton(getString(R.string.way_203_264), 264);
                 break;
-            case 204:
+            /*case 204:
                 mChapterText.setText(R.string.ch_204);
                 addButton(getString(R.string.way_204), 555);
-                break;
+                break;*/
             case 205:
                 mChapterText.setText(R.string.ch_205);
-                addButton(getString(R.string.way_205), 555);
+                addButton(getString(R.string.way_205_3), 3);
+                addButton(getString(R.string.way_205_198), 198);
                 break;
             case 206:
                 mChapterText.setText(R.string.ch_206);
-                addButton(getString(R.string.way_206), 555);
+                addButton(getString(R.string.way_206_107), 107);
                 break;
             case 207:
                 mChapterText.setText(R.string.ch_207);
-                addButton(getString(R.string.way_207), 555);
+                addButton(getString(R.string.way_207_224), 224);
+                addButton(getString(R.string.way_207_266), 266);
                 break;
             case 208:
                 mChapterText.setText(R.string.ch_208);
-                addButton(getString(R.string.way_208), 555);
+                addButton(getString(R.string.way_208_261), 261);
                 break;
             case 209:
                 mChapterText.setText(R.string.ch_209);
-                addButton(getString(R.string.way_209), 555);
+                addButton(getString(R.string.way_209_348), 348);
                 break;
             case 210:
                 mChapterText.setText(R.string.ch_210);
-                addButton(getString(R.string.way_210), 555);
+                addButton(getString(R.string.way_210_202), 202);
                 break;
             case 211:
                 mChapterText.setText(R.string.ch_211);
-                addButton(getString(R.string.way_211), 555);
+                addButton(getString(R.string.way_211_241), 241);
+                addButton(getString(R.string.way_211_281), 281);
+                addButton(getString(R.string.way_211_297), 297);
                 break;
             case 212:
                 mChapterText.setText(R.string.ch_212);
-                addButton(getString(R.string.way_212), 555);
+                addButton(getString(R.string.way_212_240), 240);
+                addButton(getString(R.string.way_212_296), 296);
                 break;
             case 213:
                 mChapterText.setText(R.string.ch_213);
-                addButton(getString(R.string.way_213), 555);
+                addButton(getString(R.string.way_213_188), 188);
                 break;
             case 214:
                 mChapterText.setText(R.string.ch_214);
-                addButton(getString(R.string.way_214), 555);
+                addButton(getString(R.string.way_214_26), 26);
+                addButton(getString(R.string.way_214_178), 178);
                 break;
             case 215:
                 mChapterText.setText(R.string.ch_215);
-                addButton(getString(R.string.way_215), 555);
+                addButton(getString(R.string.way_215_128), 128);
                 break;
             case 216:
                 mChapterText.setText(R.string.ch_216);
-                addButton(getString(R.string.way_216), 555);
+                addButton(getString(R.string.way_216_22), 22);
                 break;
             case 217:
                 mChapterText.setText(R.string.ch_217);
-                addButton(getString(R.string.way_217), 555);
+                addButton(getString(R.string.way_217_300), 300);
                 break;
             case 218:
                 mChapterText.setText(R.string.ch_218);
-                addButton(getString(R.string.way_218), 555);
+                addButton(getString(R.string.way_218_28), 28);
                 break;
             case 219:
                 mChapterText.setText(R.string.ch_219);
-                addButton(getString(R.string.way_219), 555);
+                addButton(getString(R.string.way_219_266), 266);
                 break;
             case 220:
                 mChapterText.setText(R.string.ch_220);
-                addButton(getString(R.string.way_220), 555);
+                addButton(getString(R.string.way_220_234), 234);
+                addButton(getString(R.string.way_220_235), 235);
+                addButton(getString(R.string.way_220_240), 240);
                 break;
             case 221:
                 mChapterText.setText(R.string.ch_221);
-                addButton(getString(R.string.way_221), 555);
+                addButton(getString(R.string.way_221_299), 299);
                 break;
             case 222:
                 mChapterText.setText(R.string.ch_222);
-                addButton(getString(R.string.way_222), 555);
+                addButton(getString(R.string.way_222_228), 228);
+                addButton(getString(R.string.way_222_235), 235);
                 break;
             case 223:
                 mChapterText.setText(R.string.ch_223);
-                addButton(getString(R.string.way_223), 555);
+                addButton(getString(R.string.way_223_96), 96);
                 break;
             case 224:
                 mChapterText.setText(R.string.ch_224);
-                addButton(getString(R.string.way_224), 555);
+                addButton(getString(R.string.way_224_219), 219);
                 break;
             case 225:
                 mChapterText.setText(R.string.ch_225);
-                addButton(getString(R.string.way_225), 555);
+                addButton(getString(R.string.way_225_96), 96);
+                addButton(getString(R.string.way_225_223), 223);
                 break;
             case 226:
                 mChapterText.setText(R.string.ch_226);
-                addButton(getString(R.string.way_226), 555);
+                addButton(getString(R.string.way_226_202), 202);
+                addButton(getString(R.string.way_226_294), 294);
+                addButton(getString(R.string.way_226_296), 296);
                 break;
             case 227:
                 mChapterText.setText(R.string.ch_227);
-                addButton(getString(R.string.way_227), 555);
+                addButton(getString(R.string.way_227_297), 297);
+                addButton(getString(R.string.way_227_341), 341);
                 break;
             case 228:
                 mChapterText.setText(R.string.ch_228);
-                addButton(getString(R.string.way_228), 555);
+                addButton(getString(R.string.way_228_222), 222);
                 break;
             case 229:
                 mChapterText.setText(R.string.ch_229);
-                addButton(getString(R.string.way_229), 555);
+                addButton(getString(R.string.way_229_35), 35);
+                addButton(getString(R.string.way_229_197), 197);
                 break;
             case 230:
                 mChapterText.setText(R.string.ch_230);
-                addButton(getString(R.string.way_230), 555);
+                addButton(getString(R.string.way_230_88), 88);
                 break;
             case 231:
                 mChapterText.setText(R.string.ch_231);
-                addButton(getString(R.string.way_231), 555);
+                addButton(getString(R.string.way_231_82), 82);
                 break;
             case 232:
                 mChapterText.setText(R.string.ch_232);
-                addButton(getString(R.string.way_232), 555);
+                addButton(getString(R.string.way_232_81), 81);
                 break;
-            case 233:
+            /*case 233:
                 mChapterText.setText(R.string.ch_233);
                 addButton(getString(R.string.way_233), 555);
-                break;
+                break;*/
             case 234:
                 mChapterText.setText(R.string.ch_234);
-                addButton(getString(R.string.way_234), 555);
+                addButton(getString(R.string.way_234_220), 220);
+                addButton(getString(R.string.way_234_241), 241);
                 break;
             case 235:
                 mChapterText.setText(R.string.ch_235);
-                addButton(getString(R.string.way_235), 555);
+                addButton(getString(R.string.way_235_220), 220);
+                addButton(getString(R.string.way_235_222), 222);
                 break;
-            case 236:
+            /*case 236:
                 mChapterText.setText(R.string.ch_236);
                 addButton(getString(R.string.way_236), 555);
-                break;
+                break;*/
             case 237:
                 mChapterText.setText(R.string.ch_237);
-                addButton(getString(R.string.way_237), 555);
+                addButton(getString(R.string.way_237_79), 79);
                 break;
             case 238:
                 mChapterText.setText(R.string.ch_238);
-                addButton(getString(R.string.way_238), 555);
+                addButton(getString(R.string.way_238_241), 241);
                 break;
             case 239:
                 mChapterText.setText(R.string.ch_239);
-                addButton(getString(R.string.way_239), 555);
+                addButton(getString(R.string.way_239_24), 24);
+                addButton(getString(R.string.way_239_318), 318);
                 break;
             case 240:
                 mChapterText.setText(R.string.ch_240);
-                addButton(getString(R.string.way_240), 555);
+                addButton(getString(R.string.way_240_212), 212);
+                addButton(getString(R.string.way_240_220), 220);
                 break;
             case 241:
                 mChapterText.setText(R.string.ch_241);
-                addButton(getString(R.string.way_241), 555);
+                addButton(getString(R.string.way_241_211), 211);
+                addButton(getString(R.string.way_241_234), 234);
+                addButton(getString(R.string.way_241_238), 238);
                 break;
             case 242:
                 mChapterText.setText(R.string.ch_242);
-                addButton(getString(R.string.way_242), 555);
+                addButton(getString(R.string.way_242_8), 8);
                 break;
-            case 243:
+            /*case 243:
                 mChapterText.setText(R.string.ch_243);
                 addButton(getString(R.string.way_243), 555);
-                break;
+                break;*/
             case 244:
                 mChapterText.setText(R.string.ch_244);
-                addButton(getString(R.string.way_244), 555);
+                addButton(getString(R.string.way_244_259), 259);
+                addButton(getString(R.string.way_244_295), 295);
                 break;
             case 245:
                 mChapterText.setText(R.string.ch_245);
-                addButton(getString(R.string.way_245), 555);
+                addButton(getString(R.string.way_245_6), 6);
+                addButton(getString(R.string.way_245_127), 127);
                 break;
             case 246:
                 mChapterText.setText(R.string.ch_246);
-                addButton(getString(R.string.way_246), 555);
+                addButton(getString(R.string.way_246_258), 258);
+                addButton(getString(R.string.way_246_262), 262);
                 break;
             case 247:
                 mChapterText.setText(R.string.ch_247);
-                addButton(getString(R.string.way_247), 555);
+                addButton(getString(R.string.way_247_296), 296);
                 break;
             case 248:
                 mChapterText.setText(R.string.ch_248);
-                addButton(getString(R.string.way_248), 555);
+                addButton(getString(R.string.way_248_165), 165);
                 break;
             case 249:
                 mChapterText.setText(R.string.ch_249);
-                addButton(getString(R.string.way_249), 555);
+                addButton(getString(R.string.way_249_131), 131);
                 break;
             case 250:
                 mChapterText.setText(R.string.ch_250);
-                addButton(getString(R.string.way_250), 555);
+                addButton(getString(R.string.way_250_316), 316);
                 break;
             case 251:
                 mChapterText.setText(R.string.ch_251);
-                addButton(getString(R.string.way_251), 555);
+                addButton(getString(R.string.way_251_239), 239);
                 break;
             case 252:
                 mChapterText.setText(R.string.ch_252);
-                addButton(getString(R.string.way_252), 555);
+                addButton(getString(R.string.way_252_74), 74);
+                addButton(getString(R.string.way_252_246), 246);
                 break;
             case 253:
                 mChapterText.setText(R.string.ch_253);
-                addButton(getString(R.string.way_253), 555);
+                addButton(getString(R.string.way_253_227), 227);
+                addButton(getString(R.string.way_253_269), 269);
                 break;
             case 254:
                 mChapterText.setText(R.string.ch_254);
-                addButton(getString(R.string.way_254), 555);
+                addButton(getString(R.string.way_254_163), 163);
+                addButton(getString(R.string.way_254_289), 289);
                 break;
             case 255:
                 mChapterText.setText(R.string.ch_255);
-                addButton(getString(R.string.way_255), 555);
+                addButton(getString(R.string.way_255_10), 10);
+                addButton(getString(R.string.way_255_231), 231);
                 break;
-            case 256:
+            /*case 256:
                 mChapterText.setText(R.string.ch_256);
                 addButton(getString(R.string.way_256), 555);
-                break;
+                break;*/
             case 257:
                 mChapterText.setText(R.string.ch_257);
-                addButton(getString(R.string.way_257), 555);
+                addButton(getString(R.string.way_257_27), 27);
+                addButton(getString(R.string.way_257_84), 84);
                 break;
             case 258:
                 mChapterText.setText(R.string.ch_258);
-                addButton(getString(R.string.way_258), 555);
+                addButton(getString(R.string.way_258_250), 250);
                 break;
             case 259:
                 mChapterText.setText(R.string.ch_259);
-                addButton(getString(R.string.way_259), 555);
+                addButton(getString(R.string.way_259_244), 244);
                 break;
             case 260:
                 mChapterText.setText(R.string.ch_260);
-                addButton(getString(R.string.way_260), 555);
+                addButton(getString(R.string.way_260_141), 141);
+                addButton(getString(R.string.way_260_187), 187);
+                addButton(getString(R.string.way_260_287), 287);
+                addButton(getString(R.string.way_260_312), 312);
                 break;
             case 261:
                 mChapterText.setText(R.string.ch_261);
-                addButton(getString(R.string.way_261), 555);
+                addButton(getString(R.string.way_261_277), 277);
+                addButton(getString(R.string.way_261_290), 290);
                 break;
             case 262:
                 mChapterText.setText(R.string.ch_262);
-                addButton(getString(R.string.way_262), 555);
+                addButton(getString(R.string.way_262_250), 250);
                 break;
             case 263:
                 mChapterText.setText(R.string.ch_263);
-                addButton(getString(R.string.way_263), 555);
+                addButton(getString(R.string.way_263_13), 13);
+                addButton(getString(R.string.way_263_230), 230);
                 break;
             case 264:
                 mChapterText.setText(R.string.ch_264);
-                addButton(getString(R.string.way_264), 555);
+                addButton(getString(R.string.way_264_203), 203);
+                addButton(getString(R.string.way_264_294), 294);
                 break;
             case 265:
                 mChapterText.setText(R.string.ch_265);
-                addButton(getString(R.string.way_265), 555);
+                addButton(getString(R.string.way_265_135), 135);
+                addButton(getString(R.string.way_265_263), 263);
                 break;
             case 266:
                 mChapterText.setText(R.string.ch_266);
-                addButton(getString(R.string.way_266), 555);
+                addButton(getString(R.string.way_266_73), 73);
                 break;
             case 267:
                 mChapterText.setText(R.string.ch_267);
-                addButton(getString(R.string.way_267), 555);
+                addButton(getString(R.string.way_267_119), 119);
                 break;
             case 268:
                 mChapterText.setText(R.string.ch_268);
-                addButton(getString(R.string.way_268), 555);
+                addButton(getString(R.string.way_268_157), 157);
                 break;
             case 269:
                 mChapterText.setText(R.string.ch_269);
-                addButton(getString(R.string.way_269), 555);
+                addButton(getString(R.string.way_269_293), 293);
+                addButton(getString(R.string.way_269_341), 341);
                 break;
             case 270:
                 mChapterText.setText(R.string.ch_270);
-                addButton(getString(R.string.way_270), 555);
+                addButton(getString(R.string.way_270_75), 75);
                 break;
             case 271:
                 mChapterText.setText(R.string.ch_271);
-                addButton(getString(R.string.way_271), 555);
+                addButton(getString(R.string.way_271_265), 265);
                 break;
             case 272:
                 mChapterText.setText(R.string.ch_272);
-                addButton(getString(R.string.way_272), 555);
+                addButton(getString(R.string.way_272_280), 280);
                 break;
             case 273:
                 mChapterText.setText(R.string.ch_273);
-                addButton(getString(R.string.way_273), 555);
+                addButton(getString(R.string.way_273_239_1), 239);
+                addButton(getString(R.string.way_273_239_2), 239);
+                addButton(getString(R.string.way_273_239_3), 239);
                 break;
-            case 274:
+            /*case 274:
                 mChapterText.setText(R.string.ch_274);
                 addButton(getString(R.string.way_274), 555);
-                break;
+                break;*/
             case 275:
                 mChapterText.setText(R.string.ch_275);
-                addButton(getString(R.string.way_275), 555);
+                addButton(getString(R.string.way_275_70), 70);
                 break;
             case 276:
                 mChapterText.setText(R.string.ch_276);
-                addButton(getString(R.string.way_276), 555);
+                addButton(getString(R.string.way_276_95), 95);
                 break;
             case 277:
                 mChapterText.setText(R.string.ch_277);
-                addButton(getString(R.string.way_277), 555);
+                addButton(getString(R.string.way_277_290), 290);
                 break;
             case 278:
                 mChapterText.setText(R.string.ch_278);
-                addButton(getString(R.string.way_278), 555);
+                addButton(getString(R.string.way_278_147), 147);
                 break;
             case 279:
                 mChapterText.setText(R.string.ch_279);
-                addButton(getString(R.string.way_279), 555);
+                addButton(getString(R.string.way_279_326), 326);
                 break;
             case 280:
                 mChapterText.setText(R.string.ch_280);
-                addButton(getString(R.string.way_280), 555);
+                addButton(getString(R.string.way_280_100), 100);
+                addButton(getString(R.string.way_280_173), 173);
                 break;
             case 281:
                 mChapterText.setText(R.string.ch_281);
-                addButton(getString(R.string.way_281), 555);
+                addButton(getString(R.string.way_281_211), 211);
+                addButton(getString(R.string.way_281_300), 300);
                 break;
             case 282:
                 mChapterText.setText(R.string.ch_282);
-                addButton(getString(R.string.way_282), 555);
+                addButton(getString(R.string.way_282_209_1), 209);
+                addButton(getString(R.string.way_282_209_2), 209);
                 break;
             case 283:
                 mChapterText.setText(R.string.ch_283);
-                addButton(getString(R.string.way_283), 555);
+                addButton(getString(R.string.way_283_209_1), 209);
+                addButton(getString(R.string.way_283_209_2), 209);
                 break;
             case 284:
                 mChapterText.setText(R.string.ch_284);
-                addButton(getString(R.string.way_284), 555);
+                addButton(getString(R.string.way_284_184), 184);
+                addButton(getString(R.string.way_284_286), 286);
                 break;
-            case 285:
+            /*case 285:
                 mChapterText.setText(R.string.ch_285);
                 addButton(getString(R.string.way_285), 555);
-                break;
+                break;*/
             case 286:
                 mChapterText.setText(R.string.ch_286);
-                addButton(getString(R.string.way_286), 555);
+                addButton(getString(R.string.way_286_44), 44);
                 break;
             case 287:
                 mChapterText.setText(R.string.ch_287);
-                addButton(getString(R.string.way_287), 555);
+                addButton(getString(R.string.way_287_260), 260);
                 break;
-            case 288:
+            /*case 288:
                 mChapterText.setText(R.string.ch_288);
                 addButton(getString(R.string.way_288), 555);
-                break;
+                break;*/
             case 289:
                 mChapterText.setText(R.string.ch_289);
-                addButton(getString(R.string.way_289), 555);
+                addButton(getString(R.string.way_289_133), 133);
+                addButton(getString(R.string.way_289_343), 343);
                 break;
             case 290:
                 mChapterText.setText(R.string.ch_290);
-                addButton(getString(R.string.way_290), 555);
+                addButton(getString(R.string.way_290_132), 132);
+                addButton(getString(R.string.way_290_154), 154);
                 break;
             case 291:
                 mChapterText.setText(R.string.ch_291);
-                addButton(getString(R.string.way_291), 555);
+                addButton(getString(R.string.way_291_350), 350);
                 break;
             case 292:
                 mChapterText.setText(R.string.ch_292);
-                addButton(getString(R.string.way_292), 555);
+                addButton(getString(R.string.way_292_229), 229);
                 break;
             case 293:
                 mChapterText.setText(R.string.ch_293);
-                addButton(getString(R.string.way_293), 555);
+                addButton(getString(R.string.way_293_269), 269);
+                addButton(getString(R.string.way_293_295), 295);
                 break;
             case 294:
                 mChapterText.setText(R.string.ch_294);
-                addButton(getString(R.string.way_294), 555);
+                addButton(getString(R.string.way_294_226), 226);
+                addButton(getString(R.string.way_294_264), 264);
                 break;
             case 295:
                 mChapterText.setText(R.string.ch_295);
-                addButton(getString(R.string.way_295), 555);
+                addButton(getString(R.string.way_295_244), 244);
+                addButton(getString(R.string.way_295_293), 293);
                 break;
             case 296:
                 mChapterText.setText(R.string.ch_296);
-                addButton(getString(R.string.way_296), 555);
+                addButton(getString(R.string.way_296_212), 212);
+                addButton(getString(R.string.way_296_226), 226);
+                addButton(getString(R.string.way_296_247), 247);
                 break;
             case 297:
                 mChapterText.setText(R.string.ch_297);
-                addButton(getString(R.string.way_297), 555);
+                addButton(getString(R.string.way_297_211), 211);
+                addButton(getString(R.string.way_297_227), 227);
                 break;
             case 298:
                 mChapterText.setText(R.string.ch_298);
-                addButton(getString(R.string.way_298), 555);
+                addButton(getString(R.string.way_298_229), 229);
                 break;
             case 299:
                 mChapterText.setText(R.string.ch_299);
-                addButton(getString(R.string.way_299), 555);
+                addButton(getString(R.string.way_299_350), 350);
                 break;
             case 300:
                 mChapterText.setText(R.string.ch_300);
-                addButton(getString(R.string.way_300), 555);
+                addButton(getString(R.string.way_300_217), 217);
+                addButton(getString(R.string.way_300_281), 281);
                 break;
             case 301:
                 mChapterText.setText(R.string.ch_301);
-                addButton(getString(R.string.way_301), 555);
+                addButton(getString(R.string.way_301_271), 271);
+                addButton(getString(R.string.way_301_336), 336);
                 break;
             case 302:
                 mChapterText.setText(R.string.ch_302);
-                addButton(getString(R.string.way_302), 555);
+                addButton(getString(R.string.way_302_331), 331);
                 break;
             case 303:
                 mChapterText.setText(R.string.ch_303);
-                addButton(getString(R.string.way_303), 555);
+                addButton(getString(R.string.way_303_335), 335);
                 break;
             case 304:
                 mChapterText.setText(R.string.ch_304);
-                addButton(getString(R.string.way_304), 555);
+                addButton(getString(R.string.way_304_93), 93);
                 break;
             case 305:
                 mChapterText.setText(R.string.ch_305);
-                addButton(getString(R.string.way_305), 555);
+                addButton(getString(R.string.way_305_335), 335);
                 break;
             case 306:
                 mChapterText.setText(R.string.ch_306);
-                addButton(getString(R.string.way_306), 555);
+                addButton(getString(R.string.way_306_2), 2);
+                addButton(getString(R.string.way_306_3), 3);
+                addButton(getString(R.string.way_306_198), 198);
                 break;
             case 307:
                 mChapterText.setText(R.string.ch_307);
-                addButton(getString(R.string.way_307), 555);
+                addButton(getString(R.string.way_307_309), 309);
                 break;
             case 308:
                 mChapterText.setText(R.string.ch_308);
-                addButton(getString(R.string.way_308), 555);
+                addButton(getString(R.string.way_308_324), 324);
                 break;
             case 309:
                 mChapterText.setText(R.string.ch_309);
-                addButton(getString(R.string.way_309), 555);
+                addButton(getString(R.string.way_309_338), 338);
                 break;
             case 310:
                 mChapterText.setText(R.string.ch_310);
-                addButton(getString(R.string.way_310), 555);
+                addButton(getString(R.string.way_310_79), 79);
                 break;
             case 311:
                 mChapterText.setText(R.string.ch_311);
