@@ -1636,8 +1636,9 @@ public class GameProcess extends AppCompatActivity {
                 addButton(getString(R.string.way_350_291), 291);
                 break;
             case 351:
-                // Переадресация на активити оценки приложения
-                //Intent intent = new Intent(this, Rate.class);
+                // Переадресация на Rate активити для оценки приложения
+                Intent intent = new Intent(this, Rate.class);
+                startActivity(intent);
                 break;
         }
     }

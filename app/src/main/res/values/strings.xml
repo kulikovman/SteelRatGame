@@ -6,4 +6,8 @@
     <string name="start_game">Начать игру</string>
     <string name="continue_game">Продолжить игру</string>
 
+    <string name="reset_progress">Сбросить прогресс</string>
+    <string name="reset_progress_confirmation">Текущий прогресс игры будет сброшен. Вы уверены?</string>
+
+
 </resources>
