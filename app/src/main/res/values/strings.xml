@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Стань стальной крысой!</string>
+    <string name="game_process_activity">Приключения</string>
 
 </resources>
