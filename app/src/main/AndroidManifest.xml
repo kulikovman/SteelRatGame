@@ -27,7 +27,14 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="ru.kulikovman.steelratgame.MainActivity"/>
         </activity>
-        <activity android:name=".Rate">
+        <activity
+            android:name=".Rate"
+            android:label="@string/rate_activity"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ru.kulikovman.steelratgame.MainActivity"/>
         </activity>
     </application>
 
