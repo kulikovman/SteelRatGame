@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void openGame(View view) {
-
+        Intent intent = new Intent(this, GameProcess.class);
+        startActivity(intent);
     }
 }
+
