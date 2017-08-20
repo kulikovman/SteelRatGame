@@ -87,6 +87,7 @@ public class GameProcess extends AppCompatActivity {
         // Отсутствующие главы закомментированы, они были удалены в ходе оптимизации текстов
         switch (mChapterNumber) {
             case 0:
+                // Это первая глава, с нее все начинается
                 mChapterText.setText(R.string.ch_0);
                 addButton(getString(R.string.way_0_30), 30);
                 break;
@@ -1576,6 +1577,7 @@ public class GameProcess extends AppCompatActivity {
                 addButton(getString(R.string.way_337_93), 93);
                 break;
             case 338:
+                // Это финальная глава игры
                 mChapterText.setText(R.string.ch_338);
                 addButton(getString(R.string.way_338_351), 351);
                 break;
@@ -1634,6 +1636,7 @@ public class GameProcess extends AppCompatActivity {
                 addButton(getString(R.string.way_350_291), 291);
                 break;
             case 351:
+                // Переадресация на активити оценки приложения
                 //Intent intent = new Intent(this, Rate.class);
                 break;
         }
