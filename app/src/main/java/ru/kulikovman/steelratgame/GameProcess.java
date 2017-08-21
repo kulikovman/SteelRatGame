@@ -7,14 +7,17 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.LinearLayout;
+import android.widget.ScrollView;
 import android.widget.TextView;
 
 public class GameProcess extends AppCompatActivity {
 
     private TextView mChapterText;
     private LinearLayout mButtonContainer;
+    private ScrollView mScrollContainer;
     private int mChapterNumber;
     private SharedPreferences mSharedPref;
 
@@ -25,7 +28,12 @@ public class GameProcess extends AppCompatActivity {
 
         // Инициализируем необходимые вью элементы
         mButtonContainer = (LinearLayout) findViewById(R.id.button_container);
+        mScrollContainer = (ScrollView) findViewById(R.id.scroll_container);
         mChapterText = (TextView) findViewById(R.id.chapter_text);
+
+        //
+        //mScrollContainer.setFocusableInTouchMode(true);
+        //mScrollContainer.setDescendantFocusability(ViewGroup.FOCUS_BEFORE_DESCENDANTS);
 
         // Получаем SharedPreferences
         mSharedPref = getSharedPreferences(getString(R.string.pref_key), Context.MODE_PRIVATE);
