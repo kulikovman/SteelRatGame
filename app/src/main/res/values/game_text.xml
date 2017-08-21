@@ -4505,10 +4505,4 @@
     <string name="way_350_201">Прах генерала Гранта</string>
     <string name="way_350_291">Не знаю</string>
 
-
-    <string name="ch_351">Если вам понравилось приложение, то пожалуйста не поленитесь и поставьте
-        свою оценку ).</string>
-    <string name="way_351_rate">Поставить оценку</string>
-    <string name="way_351_exit">Выйти</string>
-
 </resources>

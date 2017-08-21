@@ -9,5 +9,11 @@
     <string name="reset_progress">Сбросить прогресс</string>
     <string name="reset_progress_confirmation">Текущий прогресс игры будет сброшен. Вы уверены?</string>
 
+    <string name="rate_text">Если вам понравилось\n
+        приложение, то пожалуйста\n
+        не поленитесь и оставьте\n
+        свою оценку :)</string>
+    <string name="rate_button">Поставить оценку</string>
+
 
 </resources>
