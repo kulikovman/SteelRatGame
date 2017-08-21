@@ -28,7 +28,7 @@ public class GameProcess extends AppCompatActivity {
         mChapterText = (TextView) findViewById(R.id.chapter_text);
 
         // Получаем SharedPreferences
-        mSharedPref = getPreferences(Context.MODE_PRIVATE);
+        mSharedPref = getSharedPreferences(getString(R.string.pref_key), Context.MODE_PRIVATE);
 
         // Востанавливаем значение текущей главы
         mChapterNumber = mSharedPref.getInt(getString(R.string.chapter_number), 0);
@@ -50,7 +50,7 @@ public class GameProcess extends AppCompatActivity {
 
     public void saveChapter() {
         // Сохраняем текущую главу
-        mSharedPref = getPreferences(Context.MODE_PRIVATE);
+        mSharedPref = getSharedPreferences(getString(R.string.pref_key), Context.MODE_PRIVATE);
         SharedPreferences.Editor editor = mSharedPref.edit();
         editor.putInt(getString(R.string.chapter_number), mChapterNumber);
         editor.apply();
