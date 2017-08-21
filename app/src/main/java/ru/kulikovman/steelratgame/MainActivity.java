@@ -23,6 +23,13 @@ public class MainActivity extends AppCompatActivity {
         mOpenGameButton = (Button) findViewById(R.id.open_game_button);
         mResetGameButton = (Button) findViewById(R.id.reset_game_button);
 
+        Log.d("myLog", "Запущен стартовый активити");
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+
         // Получаем SharedPreferences
         mSharedPref = getSharedPreferences(getString(R.string.pref_key), Context.MODE_PRIVATE);
 
@@ -35,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
             mResetGameButton.setVisibility(View.INVISIBLE);
         }
 
-        Log.d("myLog", "Запущен стартовый активити");
+        Log.d("myLog", "Восстановили текущую главу");
     }
 
     public void openGame(View view) {
