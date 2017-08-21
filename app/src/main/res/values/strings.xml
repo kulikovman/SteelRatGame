@@ -3,7 +3,7 @@
     <string name="game_process_activity">Приключения</string>
     <string name="rate_activity">Оценка приложения</string>
 
-    <string name="start_game">Начать игру</string>
+    <string name="start_game">Начать новую игру</string>
     <string name="continue_game">Продолжить игру</string>
 
     <string name="reset_progress">Сбросить прогресс</string>
