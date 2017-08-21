@@ -31,12 +31,6 @@ public class GameProcess extends AppCompatActivity {
         mScrollContainer = (ScrollView) findViewById(R.id.scroll_container);
         mChapterText = (TextView) findViewById(R.id.chapter_text);
 
-        /*
-        mScrollContainer.setFocusable(true);
-        mScrollContainer.setFocusableInTouchMode(true);
-        mScrollContainer.setDescendantFocusability(ViewGroup.FOCUS_BEFORE_DESCENDANTS);
-        */
-
         // Получаем SharedPreferences
         mSharedPref = getSharedPreferences(getString(R.string.pref_key), Context.MODE_PRIVATE);
 
@@ -76,6 +70,9 @@ public class GameProcess extends AppCompatActivity {
         // Добавляем кнопку в LinearLayout контейнер
         mButtonContainer.addView(button);
         Log.d("myLog", "Создали кнопку: " + textButton);
+
+        // Прокручиваем ScrollView контейнер в начало
+        mScrollContainer.scrollTo(0, 0);
 
         // Назначаем слушатель
         button.setOnClickListener(new View.OnClickListener() {
