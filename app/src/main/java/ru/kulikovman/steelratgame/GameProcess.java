@@ -38,8 +38,8 @@ public class GameProcess extends AppCompatActivity {
         mChapterNumber = mSharedPref.getInt(getString(R.string.chapter_number), 0);
         Log.d("myLog", "Восстановили текущую главу: " + mChapterNumber);
 
-        // Ручной выбор текущей главы, для тестирования
-        mChapterNumber = 150;
+        /*// Ручной выбор текущей главы, для тестирования
+        mChapterNumber = 150;*/
 
         // Запускаем игровой процесс
         gameProcess();
