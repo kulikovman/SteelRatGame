@@ -39,7 +39,7 @@ public class GameProcess extends AppCompatActivity {
         Log.d("myLog", "Восстановили текущую главу: " + mChapterNumber);
 
         // Ручной выбор текущей главы, для тестирования
-        mChapterNumber = 220;
+        mChapterNumber = 150;
 
         // Запускаем игровой процесс
         gameProcess();

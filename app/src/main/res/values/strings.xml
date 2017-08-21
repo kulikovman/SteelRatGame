@@ -6,8 +6,11 @@
     <string name="start_game">Начать новую игру</string>
     <string name="continue_game">Продолжить игру</string>
 
-    <string name="reset_progress">Сбросить прогресс</string>
-    <string name="reset_progress_confirmation">Текущий прогресс игры будет сброшен. Вы уверены?</string>
+    <string name="reset_progress_button_text">Сбросить игру</string>
+    <string name="reset_progress_title">Сброс игры</string>
+    <string name="reset_progress_message">Текущий игровой прогресс будет сброшен. Вы уверены?</string>
+    <string name="reset_progress_ok">Ок</string>
+    <string name="reset_progress_cancel">Отмена</string>
 
     <string name="rate_text">Если вам понравилось\n
         приложение, то пожалуйста\n
