@@ -8,6 +8,20 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <!-- Тема без ActionBar для первого экрана -->
+    <style name="AppThemeNoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Тема без ActionBar для первого экрана -->
+    <style name="AppThemeRate" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/red</item>
+    </style>
+
     <!-- Стиль кнопок для вариантов ответа -->
     <style name="GameButton" parent="Widget.AppCompat.Button.Colored">
         <item name="android:layout_marginBottom">7dp</item>
