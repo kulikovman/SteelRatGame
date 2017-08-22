@@ -39,9 +39,6 @@ public class GameProcess extends AppCompatActivity {
         setTitle(mSharedPref.getString(getString(R.string.chapter_title), "Начало"));
         Log.d("myLog", "Восстановили текущую главу: " + mChapterNumber + " - " + getTitle().toString());
 
-        /*// Ручной выбор текущей главы, для тестирования
-        mChapterNumber = 150;*/
-
         // Запускаем игровой процесс
         gameProcess();
 
