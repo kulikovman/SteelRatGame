@@ -31,9 +31,9 @@
         <activity
             android:name=".Rate"
             android:label="@string/rate_activity"
-            android:theme="@style/AppThemeRate"
             android:parentActivityName=".MainActivity"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:theme="@style/AppThemeRate">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="ru.kulikovman.steelratgame.MainActivity"/>
