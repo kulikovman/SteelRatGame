@@ -232,8 +232,8 @@ public class GameProcess extends AppCompatActivity {
                 break;
             case 31:
                 mChapterText.setText(R.string.ch_31);
-                addButton(getString(R.string.way_31_292), 292);
                 addButton(getString(R.string.way_31_344), 344);
+                addButton(getString(R.string.way_31_292), 292);
                 addButton(getString(R.string.way_31_346), 346);
                 break;
             case 32:
@@ -321,8 +321,8 @@ public class GameProcess extends AppCompatActivity {
                 break;
             case 51:
                 mChapterText.setText(R.string.ch_51);
-                addButton(getString(R.string.way_51_45), 45);
                 addButton(getString(R.string.way_51_215), 215);
+                addButton(getString(R.string.way_51_45), 45);
                 break;
             case 52:
                 mChapterText.setText(R.string.ch_52);
@@ -351,8 +351,8 @@ public class GameProcess extends AppCompatActivity {
                 break;
             case 58:
                 mChapterText.setText(R.string.ch_58);
-                addButton(getString(R.string.way_58_160), 160);
                 addButton(getString(R.string.way_58_283), 283);
+                addButton(getString(R.string.way_58_160), 160);
                 break;
             case 59:
                 mChapterText.setText(R.string.ch_59);
@@ -443,12 +443,12 @@ public class GameProcess extends AppCompatActivity {
                 break;
             case 80:
                 mChapterText.setText(R.string.ch_80);
-                addButton(getString(R.string.way_80_21), 21);
-                addButton(getString(R.string.way_80_59), 59);
-                addButton(getString(R.string.way_80_149), 149);
-                addButton(getString(R.string.way_80_159), 159);
-                addButton(getString(R.string.way_80_168), 168);
                 addButton(getString(R.string.way_80_330), 330);
+                addButton(getString(R.string.way_80_149), 149);
+                addButton(getString(R.string.way_80_59), 59);
+                addButton(getString(R.string.way_80_159), 159);
+                addButton(getString(R.string.way_80_21), 21);
+                addButton(getString(R.string.way_80_168), 168);
                 break;
             case 81:
                 mChapterText.setText(R.string.ch_81);
@@ -473,8 +473,8 @@ public class GameProcess extends AppCompatActivity {
                 break;
             case 86:
                 mChapterText.setText(R.string.ch_86);
-                addButton(getString(R.string.way_86_25), 25);
                 addButton(getString(R.string.way_86_137), 137);
+                addButton(getString(R.string.way_86_25), 25);
                 break;
             case 87:
                 mChapterText.setText(R.string.ch_87);
@@ -497,14 +497,14 @@ public class GameProcess extends AppCompatActivity {
                 break;*/
             case 92:
                 mChapterText.setText(R.string.ch_92);
-                addButton(getString(R.string.way_92_53), 53);
                 addButton(getString(R.string.way_92_200), 200);
+                addButton(getString(R.string.way_92_53), 53);
                 break;
             case 93:
                 mChapterText.setText(R.string.ch_93);
                 addButton(getString(R.string.way_93_103), 103);
-                addButton(getString(R.string.way_93_158), 158);
                 addButton(getString(R.string.way_93_221), 221);
+                addButton(getString(R.string.way_93_158), 158);
                 break;
             case 94:
                 mChapterText.setText(R.string.ch_94);
@@ -556,9 +556,9 @@ public class GameProcess extends AppCompatActivity {
                 break;
             case 104:
                 mChapterText.setText(R.string.ch_104);
+                addButton(getString(R.string.way_104_314), 314);
                 addButton(getString(R.string.way_104_15), 15);
                 addButton(getString(R.string.way_104_155), 155);
-                addButton(getString(R.string.way_104_314), 314);
                 break;
             case 105:
                 mChapterText.setText(R.string.ch_105);
@@ -566,8 +566,8 @@ public class GameProcess extends AppCompatActivity {
                 break;
             case 106:
                 mChapterText.setText(R.string.ch_106);
-                addButton(getString(R.string.way_106_65), 65);
                 addButton(getString(R.string.way_106_94), 94);
+                addButton(getString(R.string.way_106_65), 65);
                 break;
             case 107:
                 mChapterText.setText(R.string.ch_107);
@@ -624,8 +624,8 @@ public class GameProcess extends AppCompatActivity {
                 break;
             case 119:
                 mChapterText.setText(R.string.ch_119);
-                addButton(getString(R.string.way_119_165), 165);
                 addButton(getString(R.string.way_119_248), 248);
+                addButton(getString(R.string.way_119_165), 165);
                 break;
             case 120:
                 mChapterText.setText(R.string.ch_120);
@@ -657,8 +657,8 @@ public class GameProcess extends AppCompatActivity {
                 setTitle(R.string.title_125);
                 mChapterText.setText(R.string.ch_125);
                 addButton(getString(R.string.way_125_55), 55);
-                addButton(getString(R.string.way_125_206_1), 206);
                 addButton(getString(R.string.way_125_206_2), 206);
+                addButton(getString(R.string.way_125_206_1), 206);
                 break;
             case 126:
                 mChapterText.setText(R.string.ch_126);
@@ -705,8 +705,8 @@ public class GameProcess extends AppCompatActivity {
                 break;
             case 135:
                 mChapterText.setText(R.string.ch_135);
-                addButton(getString(R.string.way_135_13), 13);
                 addButton(getString(R.string.way_135_230), 230);
+                addButton(getString(R.string.way_135_13), 13);
                 break;
             case 136:
                 mChapterText.setText(R.string.ch_136);
@@ -737,8 +737,8 @@ public class GameProcess extends AppCompatActivity {
                 break;
             case 142:
                 mChapterText.setText(R.string.ch_142);
-                addButton(getString(R.string.way_142_171), 171);
                 addButton(getString(R.string.way_142_177), 177);
+                addButton(getString(R.string.way_142_171), 171);
                 break;
             case 143:
                 mChapterText.setText(R.string.ch_143);
@@ -764,8 +764,8 @@ public class GameProcess extends AppCompatActivity {
             case 147:
                 setTitle(R.string.title_147);
                 mChapterText.setText(R.string.ch_147);
-                addButton(getString(R.string.way_147_41), 41);
                 addButton(getString(R.string.way_147_319), 319);
+                addButton(getString(R.string.way_147_41), 41);
                 break;
             case 148:
                 mChapterText.setText(R.string.ch_148);
@@ -802,16 +802,16 @@ public class GameProcess extends AppCompatActivity {
                 break;
             case 156:
                 mChapterText.setText(R.string.ch_156);
-                addButton(getString(R.string.way_156_21), 21);
-                addButton(getString(R.string.way_156_59), 59);
-                addButton(getString(R.string.way_156_149), 149);
-                addButton(getString(R.string.way_156_159), 159);
                 addButton(getString(R.string.way_156_330), 330);
+                addButton(getString(R.string.way_156_149), 149);
+                addButton(getString(R.string.way_156_59), 59);
+                addButton(getString(R.string.way_156_159), 159);
+                addButton(getString(R.string.way_156_21), 21);
                 break;
             case 157:
                 mChapterText.setText(R.string.ch_157);
-                addButton(getString(R.string.way_157_69), 69);
                 addButton(getString(R.string.way_157_275), 275);
+                addButton(getString(R.string.way_157_69), 69);
                 break;
             case 158:
                 mChapterText.setText(R.string.ch_158);
@@ -880,8 +880,8 @@ public class GameProcess extends AppCompatActivity {
                 break;
             case 174:
                 mChapterText.setText(R.string.ch_174);
-                addButton(getString(R.string.way_174_20), 20);
                 addButton(getString(R.string.way_174_101), 101);
+                addButton(getString(R.string.way_174_20), 20);
                 break;
             case 175:
                 mChapterText.setText(R.string.ch_175);
@@ -933,8 +933,8 @@ public class GameProcess extends AppCompatActivity {
                 break;
             case 186:
                 mChapterText.setText(R.string.ch_186);
-                addButton(getString(R.string.way_186_12), 12);
                 addButton(getString(R.string.way_186_33), 33);
+                addButton(getString(R.string.way_186_12), 12);
                 break;
             case 187:
                 mChapterText.setText(R.string.ch_187);
@@ -942,8 +942,8 @@ public class GameProcess extends AppCompatActivity {
                 break;
             case 188:
                 mChapterText.setText(R.string.ch_188);
-                addButton(getString(R.string.way_188_150), 150);
                 addButton(getString(R.string.way_188_267), 267);
+                addButton(getString(R.string.way_188_150), 150);
                 break;
             case 189:
                 mChapterText.setText(R.string.ch_189);
@@ -965,8 +965,8 @@ public class GameProcess extends AppCompatActivity {
                 break;
             case 193:
                 mChapterText.setText(R.string.ch_193);
-                addButton(getString(R.string.way_193_86), 86);
                 addButton(getString(R.string.way_193_175), 175);
+                addButton(getString(R.string.way_193_86), 86);
                 break;
             case 194:
                 mChapterText.setText(R.string.ch_194);
@@ -1056,8 +1056,8 @@ public class GameProcess extends AppCompatActivity {
                 break;
             case 214:
                 mChapterText.setText(R.string.ch_214);
-                addButton(getString(R.string.way_214_26), 26);
                 addButton(getString(R.string.way_214_178), 178);
+                addButton(getString(R.string.way_214_26), 26);
                 break;
             case 215:
                 mChapterText.setText(R.string.ch_215);
@@ -1256,10 +1256,10 @@ public class GameProcess extends AppCompatActivity {
                 break;
             case 260:
                 mChapterText.setText(R.string.ch_260);
-                addButton(getString(R.string.way_260_141), 141);
-                addButton(getString(R.string.way_260_187), 187);
                 addButton(getString(R.string.way_260_287), 287);
                 addButton(getString(R.string.way_260_312), 312);
+                addButton(getString(R.string.way_260_141), 141);
+                addButton(getString(R.string.way_260_187), 187);
                 break;
             case 261:
                 setTitle(R.string.title_261);
@@ -1273,8 +1273,8 @@ public class GameProcess extends AppCompatActivity {
                 break;
             case 263:
                 mChapterText.setText(R.string.ch_263);
-                addButton(getString(R.string.way_263_13), 13);
                 addButton(getString(R.string.way_263_230), 230);
+                addButton(getString(R.string.way_263_13), 13);
                 break;
             case 264:
                 mChapterText.setText(R.string.ch_264);
@@ -1283,8 +1283,8 @@ public class GameProcess extends AppCompatActivity {
                 break;
             case 265:
                 mChapterText.setText(R.string.ch_265);
-                addButton(getString(R.string.way_265_135), 135);
                 addButton(getString(R.string.way_265_263), 263);
+                addButton(getString(R.string.way_265_135), 135);
                 break;
             case 266:
                 mChapterText.setText(R.string.ch_266);
@@ -1460,9 +1460,9 @@ public class GameProcess extends AppCompatActivity {
                 break;
             case 306:
                 mChapterText.setText(R.string.ch_306);
-                addButton(getString(R.string.way_306_2), 2);
                 addButton(getString(R.string.way_306_3), 3);
                 addButton(getString(R.string.way_306_198), 198);
+                addButton(getString(R.string.way_306_2), 2);
                 break;
             case 307:
                 mChapterText.setText(R.string.ch_307);
@@ -1502,8 +1502,8 @@ public class GameProcess extends AppCompatActivity {
                 break;
             case 316:
                 mChapterText.setText(R.string.ch_316);
-                addButton(getString(R.string.way_316_77), 77);
                 addButton(getString(R.string.way_316_78), 78);
+                addButton(getString(R.string.way_316_77), 77);
                 break;
             case 317:
                 mChapterText.setText(R.string.ch_317);
@@ -1587,10 +1587,10 @@ public class GameProcess extends AppCompatActivity {
                 break;
             case 335:
                 mChapterText.setText(R.string.ch_335);
-                addButton(getString(R.string.way_335_102), 102);
-                addButton(getString(R.string.way_335_272), 272);
                 addButton(getString(R.string.way_335_280_1), 280);
                 addButton(getString(R.string.way_335_280_2), 280);
+                addButton(getString(R.string.way_335_272), 272);
+                addButton(getString(R.string.way_335_102), 102);
                 break;
             case 336:
                 mChapterText.setText(R.string.ch_336);
@@ -1649,10 +1649,10 @@ public class GameProcess extends AppCompatActivity {
                 break;
             case 348:
                 mChapterText.setText(R.string.ch_348);
-                addButton(getString(R.string.way_348_102), 102);
+                addButton(getString(R.string.way_348_280), 280);
                 addButton(getString(R.string.way_348_239), 239);
                 addButton(getString(R.string.way_348_251), 251);
-                addButton(getString(R.string.way_348_280), 280);
+                addButton(getString(R.string.way_348_102), 102);
                 break;
             /*case 349:
                 break;*/
