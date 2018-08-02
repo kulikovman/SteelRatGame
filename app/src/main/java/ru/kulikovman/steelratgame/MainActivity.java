@@ -23,8 +23,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // Инициализируем необходимые вью элементы
-        mOpenGameButton = (Button) findViewById(R.id.open_game_button);
-        mResetGameButton = (Button) findViewById(R.id.reset_game_button);
+        mOpenGameButton = findViewById(R.id.open_game_button);
+        mResetGameButton = findViewById(R.id.reset_game_button);
 
         Log.d("myLog", "Запущен стартовый активити");
     }
